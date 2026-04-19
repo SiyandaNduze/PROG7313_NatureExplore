@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:id="@+id/nav_home"/>
+
+    <item android:title="Gallery"
+        android:id="@+id/nav_gallery"/>
+
+    <item android:title="Websites"
+        android:id="@+id/nav_websites"/>
+
+    <item android:title="Email"
+        android:id="@+id/nav_email"/>
+</menu>
